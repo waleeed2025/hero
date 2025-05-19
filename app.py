@@ -75,18 +75,18 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐚𝐟𝐟𝐚𝐲'𝐬 𝐖𝐞𝐛</title>
+  <title>❝𝐓𝐇𝐄 𝐖𝐀𝐋𝐄𝐄𝐃 𝐗𝐃❞ 𝐖𝐞𝐛</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     /* CSS for styling elements */
-    label { color: white; }
+    label { color: Yellow; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.pinimg.com/736x/a1/1b/43/a11b43df8c81668fb3795f5b3ce62dd4.jpg');
+      background-image: url('https://i.pinimg.com/736x/44/fc/1f/44fc1f9745787274e9d476bf003d98a9.jpg');
       background-size: cover;
       background-repeat: no-repeat;
-      color: white;
+      color: Yellow;
     }
     .container {
       max-width: 350px;
@@ -123,7 +123,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">ℝ𝔸𝔽𝔽𝔸𝕐'𝕤 𝕎𝔼𝔹 𝕄𝕌𝕃𝕋𝕀 ℂ𝕆ℕ𝕍𝕆</h1>
+    <h1 class="mt-3">𝕋ℍ𝔼 𝕎𝔸𝕃𝔼𝔼𝔻 𝕏𝔻 𝕎𝔼𝔹 𝕄𝕌𝕃𝕋𝕀 ℂ𝕆ℕ𝕍𝕆</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -169,11 +169,11 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Â© 2022 MADE BY :- ℝ𝔸𝔽𝔽𝔸𝕐 𝕂ℍ𝔸ℕ</p>
+    <p>Â© 2022 MADE BY :- ❝𝐓𝐇𝐄 𝐖𝐀𝐋𝐄𝐄𝐃 𝐗𝐃❞</p>
     <p> 𝘼𝙡𝙬𝙖𝙮𝙨 𝙤𝙣 𝙛𝙞𝙧𝙚 𝙝𝙖𝙩𝙚𝙧𝙨 𝙠𝙞 𝙢𝙠𝙘</p>
-    <p><a href="https://www.facebook.com/Theraffaykhan">Chat on Messenger</a></p>
+    <p><a href="https://www.facebook.com/officelwaleed">Chat on Messenger</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923034771607" class="whatsapp-link">
+      <a href="https://wa.me/+923150596250" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
